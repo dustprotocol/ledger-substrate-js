@@ -17,7 +17,7 @@ jobs:
   build:
     needs: [ configure ]
     container:
-      image: zondax/rust-ci:latest
+      image: dust-defi/rust-ci:latest
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

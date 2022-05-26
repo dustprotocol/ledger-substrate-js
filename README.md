@@ -1,9 +1,9 @@
 # ledger-substrate (JS Integration)
 
-[![Main](https://github.com/Zondax/ledger-substrate-js/workflows/Main/badge.svg)](https://github.com/Zondax/ledger-substrate-gen/actions?query=workflow%3AMain)
+[![Main](https://github.com/dustprotocol/ledger-substrate-js/workflows/Main/badge.svg)](https://github.com/dustprotocol/ledger-substrate-gen/actions?query=workflow%3AMain)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![npm version](https://badge.fury.io/js/%40zondax%2Fledger-substrate.svg)](https://badge.fury.io/js/%40zondax%2Fledger-substrate)
+[![npm version](https://badge.fury.io/js/%dust-defi%2Fledger-substrate.svg)](https://badge.fury.io/js/%dust-defi%2Fledger-substrate)
 
 
 This package provides a basic client library to communicate with Substrate Apps running in a Ledger Nano S/X devices
@@ -14,7 +14,7 @@ using the official Substrate Ledger apps in recovery mode.
 
 # Run Tests
 
-- Prepare your Ledger device (for instance, use https://github.com/zondax/ledger-kusama)
+- Prepare your Ledger device (for instance, use https://github.com/dustprotocol/ledger-kusama)
 
   - Prepare as development device:
 

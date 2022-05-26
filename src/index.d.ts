@@ -72,4 +72,4 @@ export const newSoraApp: SubstrateAppCreator
 export const newPolkadexApp: SubstrateAppCreator
 export const newBifrostApp: SubstrateAppCreator
 export const newKaruraApp: SubstrateAppCreator
-export const newReefApp: SubstrateAppCreator
+export const newDustApp: SubstrateAppCreator
